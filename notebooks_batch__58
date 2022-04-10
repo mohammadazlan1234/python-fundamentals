@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Pyolite",
+      "language": "python",
+      "name": "python"
+    },
+    "language_info": {
+      "codemirror_mode": {
+        "name": "python",
+        "version": 3
+      },
+      "file_extension": ".py",
+      "mimetype": "text/x-python",
+      "name": "python",
+      "nbconvert_exporter": "python",
+      "pygments_lexer": "ipython3",
+      "version": "3.8"
+    }
+  },
+  "nbformat_minor": 5,
+  "nbformat": 4,
+  "cells": [
+    {
+      "cell_type": "code",
+      "source": "print(\"Hello all welcome to the python world\")",
+      "metadata": {
+        "trusted": true
+      },
+      "execution_count": 1,
+      "outputs": [
+        {
+          "name": "stdout",
+          "text": "Hello all welcome to the python world\n",
+          "output_type": "stream"
+        }
+      ],
+      "id": "3a18c994-8d48-4704-9f6d-63b7b8ef7115"
+    },
+    {
+      "cell_type": "code",
+      "source": "",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": [],
+      "id": "1f631688-1d4e-4a22-a42f-377b7f643c78"
+    },
+    {
+      "cell_type": "code",
+      "source": "",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": [],
+      "id": "6d21c450-2605-4067-b5bc-4e69d7c7d354"
+    },
+    {
+      "cell_type": "code",
+      "source": "",
+      "metadata": {},
+      "execution_count": null,
+      "outputs": [],
+      "id": "31d5eb5b-060a-4f03-9189-d0a6a2ba4f55"
+    }
+  ]
+}
